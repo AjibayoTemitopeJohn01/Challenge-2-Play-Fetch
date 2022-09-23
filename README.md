@@ -1,0 +1,2 @@
+# Challenge2-Play-Fetch
+ This is the first challenge in the course - Create with Code, Unit 1 - Player Control in Unity Project.s. I  used my array and random number generation skills to program this challenge where balls are randomly falling from the sky and I have to send my dog out to catch them before they hit the ground. To complete this challenge, I have to make sure my variables are assigned properly, my if-statements are programmed correctly, my collisions are being detected perfectly, and that objects are being generated randomly.
